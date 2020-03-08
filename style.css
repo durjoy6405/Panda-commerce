@@ -1,0 +1,29 @@
+.car-bg{
+    background-color: #feafe8;
+}
+.container{
+    margin-bottom: 60px;
+}
+
+.carousel-item{
+    padding: 20px 60px;
+}
+.price{
+    color: purple;
+}
+.c{
+    background-color: orange;
+    color: orangered;
+}
+.buy-now{
+    color: black;
+    border: purple;
+    background-color: purple;
+    border-radius: 5px;
+}
+.buy-now:hover{
+    color:whitesmoke;
+    border: rgba(255, 230, 2, 0.979);
+    background-color: rgba(255, 230, 2, 0.979);
+    border-radius: 5px;
+}
